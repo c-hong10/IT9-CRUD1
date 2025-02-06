@@ -4,4 +4,3 @@ CREATE TABLE attendance (
     date DATE NOT NULL,
     status ENUM('Present', 'Absent') NOT NULL
 );
-hong
